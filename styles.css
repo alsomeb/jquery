@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+.big-title {
+  font-size: 10rem;
+  color: lime;
+  font-family: cursive;
+}
+
+
+.margin-50 {
+  margin: 50px;
+}
